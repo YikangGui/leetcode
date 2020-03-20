@@ -1,3 +1,5 @@
+# Maximum Student Taking Exams
+
 class Solution:
     def maxStudents(self, seats) -> int:
         m = len(seats)
